@@ -132,7 +132,7 @@ img.aligncenter{margin: 25px 0;}
 .table-cell{display: table-cell; vertical-align: middle;}
 .grid{display: grid; display: -moz-grid; display: -ms-grid;}
 
-body{font-size: 18px; line-height: 26px; font-family: 'Graphik-Regular'; overflow: hidden; color: var(--black);}
+body{font-size: 18px; line-height: 26px; font-family: 'Graphik-Regular'; overflow: hidden; color: var(--black); background-image: url('./images/bg.svg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 span.optional-text{margin-bottom: 20px; color: var(--illumin-blue); font-size: 20px; line-height: 24px; display: block;}
 
 
