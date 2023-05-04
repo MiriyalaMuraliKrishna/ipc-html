@@ -7,7 +7,7 @@ a{color: var(--illumin-blue); text-decoration: none; transition-duration: 0.5s; 
 a:focus {outline: none;}
 a:hover, a:active {outline: 0;}
 a:hover{color: var(--black);}
-h1, h2, h3, h4, h5, h6 {clear: both; margin: 0 0 8px; color: var(--black); letter-spacing: normal; text-transform: none; font-family: 'Graphik-Bold', sans-serif;}
+h1, h2, h3, h4, h5, h6 {clear: both; margin: 0 0 8px; color: var(--black); letter-spacing: normal; text-transform: none; font-family: 'Overpass', sans-serif;}
 h1 {font-size: 58px; line-height: 64px; margin-bottom: 20px;}
 h2 {font-size: 40px; line-height: 48px; margin-bottom: 12px;}
 h3 {font-size: 32px; line-height: 40px; margin-bottom: 10px;}
@@ -132,7 +132,7 @@ img.aligncenter{margin: 25px 0;}
 .table-cell{display: table-cell; vertical-align: middle;}
 .grid{display: grid; display: -moz-grid; display: -ms-grid;}
 
-body{font-size: 18px; line-height: 26px; font-family: 'Graphik-Regular'; overflow: hidden; color: var(--black); background-image: url('./images/bg.svg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+body{font-size: 18px; line-height: 26px; font-family: 'HelveticaNeueLTStd-Roman', sans-serif; overflow: hidden; color: var(--black); background-image: url('./images/bg.svg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 span.optional-text{margin-bottom: 20px; color: var(--illumin-blue); font-size: 20px; line-height: 24px; display: block;}
 
 
